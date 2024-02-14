@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+    }
+
+    header {
+        background-color:rgb(240, 225, 25);
+        padding-top: 25px;
+        color: rgb(13, 105, 33);
+        display:flex;
+        justify-content: space-between;
+        align-items:center;
+        padding-bottom: 16px;
+    }
+
+    .container {
+        max-width: 1024px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+        form {
+        margin-bottom: 16px; 
+        max-width: 360px;
+        }
+    
+        form label {
+            font-weight: bold;
+            display:block;
+        }
+    
+        form input  {
+            width: 100%;
+            display: block;
+            padding: 10px;
+        }
+        
+        form button {
+            max-width: 120px;
+            padding: 15px;
+            background-color: rgb(22, 22, 224);
+            color: rgb(160, 204, 241);
+            border-radius: 6px;
+            cursor:pointer;
+        }
+
+        section {
+            padding: 50px 0;
+        }
+    
+        section .container h2 {
+            margin-bottom: 18px;
+            color:blue;
+            
+            
+        }
+
