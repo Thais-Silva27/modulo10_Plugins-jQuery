@@ -7,7 +7,7 @@ Nesse modulo o exercicio consiste em:
 
 ____________________________________________________________________________________________________________________________________________________________
 
-Nesse modulo aprendi:
+O que foi estudado neste modulo:
 
 * Criação de um menu hamburguer funcional que se expande e recolhe adequadamente em resposta às ações do usuário, como cliques ou toques; 
 * Criação de um carrossel de imagens que mude automaticamente para exibir várias imagens em sequência;
